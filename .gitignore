@@ -1,0 +1,8 @@
+__pycache__
+.pytest_cache
+.venv
+frontend
+backend/user_ids.txt
+.env
+.docekerignore
+Dockerfile
